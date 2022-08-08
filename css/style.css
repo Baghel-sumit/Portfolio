@@ -146,7 +146,7 @@ header nav ul li a:hover{
     align-items: center;
     width: 100vw;
     height: 90vh;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.3s ease;
 }
 
 .main-container{
